@@ -18,7 +18,7 @@
 
     <string name="app_name">GravityBox [MM]</string>
 
-    <string name="battery_style_title">Стыль індыкатара батарэі</string>	
+    <string name="battery_style_title">Стыль індыкатара батарэі</string>
     <string name="battery_style_stock">Па змаўчанні</string>
     <string name="battery_style_circle">Кола</string>
     <string name="battery_style_circle_percent">Кола з адсоткамі</string>
