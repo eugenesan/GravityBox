@@ -210,7 +210,7 @@
             android:value="true" />
         <meta-data
             android:name="xposedminversion"
-            android:value="78+" />
+            android:value="82" />
         <meta-data
             android:name="xposeddescription"
             android:value="GravityBox by C3C076@XDA" />
