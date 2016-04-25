@@ -64,7 +64,6 @@
     <string name="quick_settings_expanded_desktop_normal">Normal</string>
     <string name="quick_settings_expanded_desktop_expanded">Genişletilmiş</string>
     <string name="quick_settings_stay_awake_on">Uyanık kal</string>
-    <string name="quick_settings_stay_awake_off">Uyu</string>
 
     <!--  QuickSettings settings -->
     <string name="quick_settings_title">Durum çubuğu HızlıAyarlar kareleri</string>
